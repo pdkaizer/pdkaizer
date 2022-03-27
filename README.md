@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a  designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
+I'm a product designer and design technologist with a passion for user focused digital products that are highly functional and beautifully designed.
 
 My current job is Senior Designer for [Booz | Allen | Hamilton](http://www.boozallen.com/) where I currently am doing design work for the [USPS](https://www.usps.com/).
 
